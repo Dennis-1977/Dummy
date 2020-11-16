@@ -1,5 +1,5 @@
 # Dummy
 
-includes/src/queries/quick-search.php
+#child-theme/includes/src/queries/quick-search.php
 
-includes/utils/term-utils.php
+#child-theme/includes/utils/term-utils.php
